@@ -1,0 +1,2 @@
+C:\Users\agude\documents\visual studio 2015\Projects\Example\Example\Example.WinPhone\Example.WinPhone.csproj;neutral
+C:\Users\agude\documents\visual studio 2015\Projects\Example\Example\Example\Example.csproj;neutral
