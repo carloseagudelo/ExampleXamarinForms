@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\agude\documents\visual studio 2015\projects\example\example\example.windows\obj\debug\intermediatexaml\example.windows.exe" HashGuid="a30d8e63-fd14-4c0e-b90f-011c9cf25ca8" />
-    <ReferenceAssembly PathName="c:\users\agude\documents\visual studio 2015\projects\example\example\example\bin\debug\example.dll" HashGuid="9c1c0f12-6fdb-35b8-00f1-5d4d68258521" />
+    <ReferenceAssembly PathName="c:\users\agude\documents\visual studio 2015\projects\example\example\example\bin\debug\example.dll" HashGuid="b8e55fb4-31bd-6bd9-dab0-9cd65e8c9178" />
     <ReferenceAssembly PathName="c:\users\agude\documents\visual studio 2015\projects\example\packages\mvvmlightlibs.5.3.0.0\lib\windows81\galasoft.mvvmlight.dll" HashGuid="00d789b5-4004-069c-47a3-85602f81a196" />
     <ReferenceAssembly PathName="c:\users\agude\documents\visual studio 2015\projects\example\packages\mvvmlightlibs.5.3.0.0\lib\windows81\galasoft.mvvmlight.extras.dll" HashGuid="36f75486-c611-869d-0f3b-f77b4baca7ec" />
     <ReferenceAssembly PathName="c:\users\agude\documents\visual studio 2015\projects\example\packages\mvvmlightlibs.5.3.0.0\lib\windows81\galasoft.mvvmlight.platform.dll" HashGuid="33adc14f-1699-89db-fb87-66d3f3fc4dfe" />

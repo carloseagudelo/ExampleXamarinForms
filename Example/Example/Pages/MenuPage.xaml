@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Example.Pages.MenuPage"
              Title="Menú"
+             Icon="ic_action_dehaze.png"
              BackgroundColor="{StaticResource MenuColor}"
              BindingContext="{Binding Main, Source={StaticResource Locator}}">
 
@@ -21,7 +22,10 @@
               <ColumnDefinition Width="Auto"></ColumnDefinition>
               <ColumnDefinition Width="*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
-            <Image Source="{Binding Icon}"></Image>
+            <Image
+              WidthRequest="50"
+              HeightRequest="50"
+              Source="{Binding Icon}"></Image>
             <Label 
               Grid.Column="1"
               VerticalOptions="Center"

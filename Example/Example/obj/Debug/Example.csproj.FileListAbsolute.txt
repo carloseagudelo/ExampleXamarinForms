@@ -37,3 +37,5 @@ C:\Users\agude\documents\visual studio 2015\Projects\Example\Example\Example\bin
 C:\Users\agude\documents\visual studio 2015\Projects\Example\Example\Example\bin\Debug\System.Net.Primitives.xml
 C:\Users\agude\documents\visual studio 2015\Projects\Example\Example\Example\obj\Debug\Example.dll.mdb
 C:\Users\agude\documents\visual studio 2015\Projects\Example\Example\Example\bin\Debug\Example.dll.mdb
+C:\Users\agude\documents\visual studio 2015\Projects\Example\Example\Example\obj\Debug\Example.dll.mdb
+C:\Users\agude\documents\visual studio 2015\Projects\Example\Example\Example\bin\Debug\Example.dll.mdb
